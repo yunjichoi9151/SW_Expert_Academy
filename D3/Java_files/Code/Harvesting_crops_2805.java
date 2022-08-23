@@ -1,5 +1,3 @@
-package Java_files.Code;
-
 import java.util.Scanner;
 
 public class Harvesting_crops_2805 {

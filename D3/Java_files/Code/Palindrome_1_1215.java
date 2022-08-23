@@ -1,5 +1,3 @@
-package Java_files.Code;
-
 import java.util.Scanner;
 
 public class Palindrome_1_1215 {
