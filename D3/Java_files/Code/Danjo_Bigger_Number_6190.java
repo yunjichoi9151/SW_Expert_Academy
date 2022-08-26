@@ -1,5 +1,3 @@
-package Java_files.Code;
-
 import java.util.Scanner;
 
 public class Danjo_Bigger_Number_6190 {

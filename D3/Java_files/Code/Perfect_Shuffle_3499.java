@@ -1,5 +1,3 @@
-package Java_files.Code;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 

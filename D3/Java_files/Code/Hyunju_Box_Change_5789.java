@@ -1,5 +1,3 @@
-package Java_files.Code;
-
 import java.util.Scanner;
 
 public class Hyunju_Box_Change_5789 {
